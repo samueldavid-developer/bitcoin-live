@@ -31,7 +31,7 @@ Sincronización: Sistema de actualización automática cada 60 segundos para man
 Instalación y Uso
 Si quieres ejecutar este proyecto localmente:
 
-Clona el repositorio: git clone https://github.com/samueldavid-developer/bitcoin-live.git
+link https://samueldavid-developer.github.io/bitcoin-live/
 
 Instala las dependencias: npm install
 
