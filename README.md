@@ -1,7 +1,3 @@
-Entiendo perfectamente. A veces los README parecen escritos por un robot lleno de iconos. Aquí tienes una versión profesional, sobria y escrita con un tono de desarrollador real para tu repositorio bitcoin-live.
-
-Copia y pega esto en tu archivo README.md:
-
 Bitcoin Live Dashboard
 Esta es una terminal de monitoreo de Bitcoin diseñada para ofrecer una visualización limpia y técnica de los movimientos del mercado en tiempo real. El proyecto nace de la necesidad de tener un tablero de control que priorice la velocidad de carga y la claridad de los datos financieros.
 

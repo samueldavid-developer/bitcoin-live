@@ -76,7 +76,7 @@ export default function BitcoinPro() {
         {/* Grupo de botones (GitHub + Refresh) */}
         <div className="flex items-center gap-2 sm:gap-4">
           <a 
-            href="https://github.com/TU_USUARIO" // CAMBIA ESTO POR TU LINK
+            href="https://github.com/samueldavid-developer/bitcoin-live" // CAMBIA ESTO POR TU LINK
             target="_blank" 
             rel="noopener noreferrer"
             className="p-2 rounded-full text-slate-500 hover:text-white hover:bg-white/5 transition-all"
