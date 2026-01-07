@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bitcoin: #f97316;
+  --color-dark-bg: #050505;
+  --color-card-bg: #0f1115;
+}
+@theme {
+  --color-bitcoin: #f97316;
+  --color-dark-bg: #050505;
+  --color-card-bg: #0f1115;
+}
+
+:root {
+  background-color: var(--color-dark-bg);
+  color: white;
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+body {
+  margin: 0;
+  overflow-x: hidden;
+}
+
+/* Scrollbar personalizada estilo terminal */
+::-webkit-scrollbar {
+  width: 5px;
+}
+::-webkit-scrollbar-track {
+  background: #050505;
+}
+::-webkit-scrollbar-thumb {
+  background: #333;
+  border-radius: 10px;
+}
